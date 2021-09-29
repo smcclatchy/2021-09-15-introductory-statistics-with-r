@@ -1,0 +1,30 @@
+Timestamp	Write one thing you learned so far that you found useful.	Write one question you still have about the material covered so far.	Is there anything else you would like to add?
+6/15/2021 12:03:06	vector	how is this all connected? how do I remember these commands?	
+6/15/2021 12:03:43	How to assign values to variables and navigating R studio.	I am very confused about factors. I felt that that session went way too quickly.	
+6/15/2021 12:03:59	changing/working with variables	I don't understand the values (factors, numeric, characters)	The last instructor went to fast and covered too much material
+6/15/2021 12:04:00	How to load datasets into RStudio and how to download packages	I got confused towards the end of the session where we began discussing vectors and converting data	Thank you, I thought the etherpad was great and I appreciated the links in the WebEx chat to supplement the teachings.
+6/15/2021 12:05:10	i learned how data frames & vectors work	I would like clarification on changing things into factors, I'm a little confused on that topic	n/a
+6/15/2021 12:05:15	how assign objects and find information about commands with help() or ?command	I didn't have any question	n/a
+6/15/2021 12:54:03	data summary and viewing comands	purpose of changing forms of data	
+6/17/2021 11:59:18	the filter function		I appreciated the pace of this lesson!
+6/17/2021 11:59:22	select() and filter()	N/a	n/a
+6/17/2021 11:59:50	learned a lot of really great commands--especially the pipline	i didnt understand the brackets	i like working through data files and see how they change to understand the commands
+6/17/2021 12:00:17	Combining filter and select function	Instead of filtering out day 0, how would you remove it from your original data frame?	No, thank you!
+6/17/2021 12:00:35	all the different commands were beneficial	what does the %>% command actually mean	I like the pace we went at today, I understood every step of what was being done
+6/17/2021 12:00:45	I learned about dplyr and how to work better with data (I'm more comfortable with vectors)	Can we please review the square bracket purpose	Good session today, I arrived a little late so missed the first ~20min of session, but was able to catch up in the chat.
+9/15/2021 11:56:18	A Refresher on common commands		
+9/15/2021 11:56:34	I learned coercion and the hierarchy of coercion, which I thought was useful.	None!	
+9/15/2021 11:57:34	The resources provided are very helpful	What instances should you write in the upper and lower boxes on the left	Maybe be a bit more collaborative when doing something for the first time - was a bit fast paced right from the jump because I'm not at all familiar with coding of any sort.
+9/15/2021 11:57:34	Basic coding techniques/skills	Still not clear on the ranking of vector types, but I am sure that will come with practice.	Thank you for being patient with us! 
+9/15/2021 11:58:30	keeping good comments throughout the code 	how to add vectors together	
+9/15/2021 11:59:11	The coercion hierarchy 	I don't have any questions at the moment	I would love to take an introduction to python class!
+9/15/2021 12:00:31	learnt so many actually.  how to create object, what are vectors etc	could not understand " logical → numeric → character ← logical"   hierarchy 	It was perfect for day 1, thanks
+9/15/2021 12:01:53	adding notes into the code file to save for later	How do I combine functions to run 2-3 actions in one line of code?	vector and data types exercise 1 was difficult to follow because I wasn't sure what I was supposed to be writing for the code to figure that out. Maybe add some suggestions in that section?  I really like R and at the moment it seems easier than Linux (my first coding effort) due to the built in support. Why would use Linux over Python or R for bioinformatics? At Uconn the Bio program definitely preferred Linux.
+9/15/2021 12:02:45	R intro, Tips about seeking help, Objects, Vectors, general practice using R	some short cut commands that save time, like clean the console pad etc. How to properly close and save a project 	No, everyone (instructor and helper) was super helpful!
+9/17/2021 12:03:08	Inputting data into R studio	I just need practice 	Thank you for you patients with us!!! 
+9/17/2021 12:06:10	How to pull up data sets	How to find the right command/function to execute what you are attempting to accomplish	Not particularly :)
+9/17/2021 12:08:31	making data subsets	Are the . used in writing a pathway similar to those in Linux? . = goes one level above ..=root	
+9/22/2021 12:01:16	Filtering data	How to make a new csv file from filtered data 	
+9/22/2021 12:03:39	Being able to make bar graphs and other plots is very helpful	I'm just not sure where any of the materials we've been covering can be used in real-life applications.	I don't understand what the various symbols mean. i.e. %>% and ->. I understand they need to be used, but I don't understand their meaning 
+9/22/2021 12:04:17	I learned how to isolate data from a dataframe!	I am confused as to why you need the %>% operator in between the data you are isolating and functions like range() and mean().	
+9/22/2021 12:05:06	The pipping (%>%) seems very helpful	When are tibbles used instead of data frames?	
